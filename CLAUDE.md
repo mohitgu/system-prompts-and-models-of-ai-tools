@@ -1,5 +1,10 @@
 # Claude Code instructions
 
+Follow [AGENTS.md](AGENTS.md) for all project-specific rules.
+
+@AGENTS.md
+
+
 ## TimeLens work log
 
 This standing instruction applies to every user request and logical work chunk, across all local and remote projects and repositories on GitHub and GitLab, including this repository. Codex, Claude Code, Cursor, Copilot, and other agents must follow it without waiting to be reminded. Repository copies must be self-contained so the rule works on another machine or a cloud checkout.
